@@ -13,3 +13,10 @@ function inverterString(string) {
   console.log("Texto original:", textoOriginal);
   console.log("Texto invertido:", textoInvertido);
   
+  /*
+  Saida:
+
+Texto original: Me contrata Target!
+Texto invertido: !tegraT atartnoc eM
+
+*/
